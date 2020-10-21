@@ -6,4 +6,6 @@
 
 ## [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone)
 
-[Car Accident Severity (Under Construction)](https://humanrickshaw.github.io/IBM_Data_Science/Car_Accident_Severity.html)
+[Segmenting and Clustering Neighborhoods in Toronto](https://humanrickshaw.github.io/IBM_Data_Science/Clustering_Toronto.html)
+
+[The Battle of Neighborhoods](https://humanrickshaw.github.io/IBM_Data_Science/Battle_of_Neighborhoods.html)
