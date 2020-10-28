@@ -8,4 +8,4 @@
 
 [Segmenting and Clustering Neighborhoods in Toronto](https://humanrickshaw.github.io/IBM_Data_Science/Clustering_Toronto.html)
 
-[The Battle of Neighborhoods](https://humanrickshaw.github.io/IBM_Data_Science/Battle_of_Neighborhoods.html)
+[Join the Competition, or Keep Distance?](https://humanrickshaw.github.io/IBM_Data_Science/Join_the_Competition_or_Keep_Distance.html)
