@@ -8,4 +8,4 @@
 
 [Segmenting and Clustering Neighborhoods in Toronto](https://humanrickshaw.github.io/IBM_Data_Science/Clustering_Toronto.html)
 
-[Car Accident Severity (Under Construction](https://humanrickshaw.github.io/IBM_Data_Science/Car_Accident_Severity.html)
+[Car Accident Severity (Under Construction)](https://humanrickshaw.github.io/IBM_Data_Science/Car_Accident_Severity.html)
