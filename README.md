@@ -9,8 +9,12 @@
 #### [Segmenting and Clustering Neighborhoods in Toronto](https://humanrickshaw.github.io/IBM_Data_Science/Clustering_Toronto.html)
 
 #### Car Accident Severity
-
+<ul>
+  <li><a href="https://humanrickshaw.github.io/IBM_Data_Science/Car_Accident_Severity.html">Jupyter Notebook</a></li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
     [Jupyter Notebook](https://humanrickshaw.github.io/IBM_Data_Science/Car_Accident_Severity.html)
-    <a href="https://humanrickshaw.github.io/IBM_Data_Science/Car_Accident_Severity.html">Jupyter Notebook</a>
+    
     [Presentation]()
     [Report]()
