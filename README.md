@@ -10,7 +10,7 @@
 
 #### Car Accident Severity
 <ul>
-  <li>[Jupyter Notebook](https://humanrickshaw.github.io/IBM_Data_Science/Car_Accident_Severity.html)</li>
-  <li>[Presentation]()</li>
-  <li>[Report]()</li>
+  <li> [Jupyter Notebook](https://humanrickshaw.github.io/IBM_Data_Science/Car_Accident_Severity.html) </li>
+  <li> [Presentation]() </li>
+  <li> [Report]() </li>
 </ul>
