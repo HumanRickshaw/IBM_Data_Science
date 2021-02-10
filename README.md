@@ -2,10 +2,15 @@
 
 ## [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)
 
-[Loan Classification](https://humanrickshaw.github.io/IBM_Data_Science/Loan_Classification.html)
+#### [Loan Classification](https://humanrickshaw.github.io/IBM_Data_Science/Loan_Classification.html)
 
 ## [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone)
 
-[Segmenting and Clustering Neighborhoods in Toronto](https://humanrickshaw.github.io/IBM_Data_Science/Clustering_Toronto.html)
+#### [Segmenting and Clustering Neighborhoods in Toronto](https://humanrickshaw.github.io/IBM_Data_Science/Clustering_Toronto.html)
 
-[Car Accident Severity (Under Construction)](https://humanrickshaw.github.io/IBM_Data_Science/Car_Accident_Severity.html)
+#### Car Accident Severity
+<ul>
+  <li>[Jupyter Notebook](https://humanrickshaw.github.io/IBM_Data_Science/Car_Accident_Severity.html)</li>
+  <li>[Presentation]()</li>
+  <li>[Report]()</li>
+</ul>
