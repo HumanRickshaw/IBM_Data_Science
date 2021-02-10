@@ -10,11 +10,7 @@
 
 #### Car Accident Severity
 <ul>
-  <li><a href="https://humanrickshaw.github.io/IBM_Data_Science/Car_Accident_Severity.html">Jupyter Notebook</a></li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li><a href = "https://humanrickshaw.github.io/IBM_Data_Science/Car_Accident_Severity.html">Jupyter Notebook</a></li>
+  <li><a href = "">Presentation</a></li>
+  <li><a href = "">Report</a></li>
 </ul>
-    [Jupyter Notebook](https://humanrickshaw.github.io/IBM_Data_Science/Car_Accident_Severity.html)
-    
-    [Presentation]()
-    [Report]()
