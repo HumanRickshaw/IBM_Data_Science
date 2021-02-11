@@ -13,4 +13,5 @@
   <li><a href = "https://humanrickshaw.github.io/IBM_Data_Science/Car_Accident_Severity.html">Jupyter Notebook</a></li>
   <li><a href = "https://humanrickshaw.github.io/IBM_Data_Science/CAS_Presentation.html">Presentation</a></li>
   <li><a href = "https://humanrickshaw.github.io/IBM_Data_Science/CAS_Report.html">Report</a></li>
+  <li><a href = "https://humanrickshaw.github.io/IBM_Data_Science/seattle_map.html">Seattle Map</a></li>
 </ul>
