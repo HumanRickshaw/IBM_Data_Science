@@ -11,7 +11,7 @@
 #### Car Accident Severity
 <ul>
   <li><a href = "https://humanrickshaw.github.io/IBM_Data_Science/Car_Accident_Severity.html">Jupyter Notebook</a></li>
-  <li><a href = "https://humanrickshaw.github.io/IBM_Data_Science/CAS_Presentation.html">Presentation</a></li>
+  <li><a href = "https://humanrickshaw.github.io/IBM_Data_Science/CAS_Presentation.pdf">Presentation</a></li>
   <li><a href = "https://humanrickshaw.github.io/IBM_Data_Science/CAS_Report.html">Report</a></li>
   <li><a href = "https://humanrickshaw.github.io/IBM_Data_Science/seattle_map.html">Seattle Map (Count of Accidents in Seattle by Neighborhood, 2004 - 2020)</a></li>
 </ul>
